@@ -1,0 +1,1 @@
+url = 'https://github.com/netology-code/py-homeworks-advanced/tree/master/7.Interview'
